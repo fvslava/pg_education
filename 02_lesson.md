@@ -1,5 +1,5 @@
 Создаём ВМ через GUI в ЯК\
-Ставим PG 15 по этой статье https://www.radishlogic.com/postgresql/how-to-install-postgresql-15-on-ubuntu\
+Ставим PG 15 по этой статье https://www.radishlogic.com/postgresql/how-to-install-postgresql-15-on-ubuntu  
 ![1](https://github.com/fvslava/pg_education/assets/50954994/815e270b-d2e1-4834-9a62-fc3f91e7c969)\
 Создаём БД и таблицу\
 ![2](https://github.com/fvslava/pg_education/assets/50954994/0aa40e43-d0c4-463b-8c20-ee525219fa35)\
